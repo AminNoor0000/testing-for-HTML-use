@@ -87,11 +87,11 @@
 </head>
 <body>
 
-    <h1>Welcome to My Website</h1>
-    <p>This is my first HTML webpage. I am learning how to build websites!</p>
+    <h1>Welcome to Our Website</h1>
+    <p>This is our first HTML webpage. We are learning how to build websites!</p>
 
-    <h2>About Me</h2>
-    <p>I am a beginner in web development.</p>
+    <h2>About Us</h2>
+    <p>We are beginner in web development.</p>
 
     <h2>Student List</h2>
     <table>
@@ -104,28 +104,28 @@
         <tbody>
             <tr>
                 <td>1</td>
-                <td>HAZIM BIN ISHAK</td>
-            </tr>
-            <tr>
-                <td>2</td>
                 <td>MOHD AMIN BIN NOOR SHAMSULAINEE</td>
             </tr>
             <tr>
-                <td>3</td>
+                <td>2</td>
                 <td>MUHAMMAD IRFAN BIN ZULKARNAIN</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>HAZIM BIN ISHAK</td>
             </tr>
         </tbody>
     </table>
 
-    <h2>My Favorite Website</h2>
-    <a href="https://www.google.com" target="_blank">Visit Google</a>
+    <h2>Our First Website</h2>
+    <a href="https://coding-buck-01915563.figma.site/" target="_blank">Visit Sport Training Academy</a>
 
-    <h2>My Image</h2>
-    <img src="https://via.placeholder.com/150" alt="Sample Image">
+    <h2>Our Institution Image</h2>
+    <img src="https://tse3.mm.bing.net/th/id/OIP.RZFgojm7vtT8Fs6FQeyUWwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Sample Image">
 
     <br>
 
-    <button type="button" onclick="alert('Hello! Thanks for clicking.')">Click Me</button>
+    <button type="button" onclick="alert('BOOM! Don't Forget to Register with our Academy.')">Click Me</button>
 
 </body>
 </html>
